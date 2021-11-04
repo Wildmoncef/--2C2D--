@@ -1,0 +1,17 @@
+{
+  "title": "Test",
+  "description": "Vide",
+  "artist": "oim",
+  "author": "oim",
+  "cover": "https://i.imgur.com/42jttiO.png",
+  "chapters": {
+    "test": {
+      "title": "test",
+      "volume": "00 - test",
+      "groups": {
+        "oim": "https://drive.google.com/uc?id=16ROV1ee8cKaNBMWnxx6fN22iaFGJiWeL"
+      },
+      "last_updated": "1636050694"
+    }
+  }
+}
