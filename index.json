@@ -1,6 +1,6 @@
 {
   "title": "2 Cool 2 Die",
-  "description": "Shen, Kame, Fox et Jaguar, quatre jeunes hommes avec des objectifs bien disctincts, vont faire équipe afin de battre le Magicien. C'est le début d'une grande aventure pour ceux qui sont décidment \"trop cools pour mourir\".",
+  "description": "Shen, Kame, Fox et Jaguar, quatre jeunes hommes avec des objectifs bien distincts, vont faire équipe afin de battre le Magicien. C'est le début d'une grande aventure pour ceux qui sont décidément \"trop cools pour mourir\".",
   "artist": "Benymoh",
   "author": "Benymoh",
   "cover": "https://i.imgur.com/42jttiO.png",
@@ -22,7 +22,7 @@
       "last_updated": "1636050694"
     },
     "02": {
-      "title": "Trahison dans le désert",
+      "title": "Trahison dans le Désert",
       "volume": "01 - La Quête du Magicien",
       "groups": {
         "Wildmoncef": "/proxy/api/imgur/chapter/aqh2Zxk/"
@@ -30,7 +30,7 @@
       "last_updated": "1636050694"
     },
     "03": {
-      "title": "Le plus fort du monde",
+      "title": "Le Plus Fort du Monde",
       "volume": "01 - La Quête du Magicien",
       "groups": {
         "Wildmoncef": "/proxy/api/imgur/chapter/dfr2KN3/"
@@ -68,6 +68,30 @@
         "Wildmoncef": "/proxy/api/imgur/chapter/Y7idSEG/"
       },
       "last_updated": "1636052383"
+    },
+    "08": {
+      "title": "Entraînement",
+      "volume": "01 - La Quête du Magicien",
+      "groups": {
+        "Wildmoncef": "/proxy/api/imgur/chapter/pbTO0Bj/"
+      },
+      "last_updated": "1636056495"
+    },
+    "09": {
+      "title": "Le Retour du Jaguar",
+      "volume": "01 - La Quête du Magicien",
+      "groups": {
+        "Wildmoncef": "/proxy/api/imgur/chapter/cH7FOEB/"
+      },
+      "last_updated": "1636056495"
+    },
+    "10": {
+      "title": "Black Bart",
+      "volume": "01 - La Quête du Magicien",
+      "groups": {
+        "Wildmoncef": "/proxy/api/imgur/chapter/4gVufTY/"
+      },
+      "last_updated": "1636056835"
     }
   }
 }
