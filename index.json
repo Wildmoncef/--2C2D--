@@ -1,0 +1,41 @@
+{
+  "title": "2C2D",
+  "description": "Shen, Kame, Fox et Jaguar, quatre jeunes hommes avec des objectifs bien disctincts, vont faire équipe afin de battre le Magicien. C'est le début d'une grande aventure pour ceux qui sont décidment \"trop cools pour mourir\".",
+  "artist": "Benymoh",
+  "author": "Benymoh",
+  "cover": "https://i.imgur.com/j4OZeng.png",
+  "chapters": {
+    "01": {
+      "title": "L'île des reptiles",
+      "volume": "01",
+      "groups": {
+        "Maître Cantique": "/proxy/api/imgur/chapter/M7R0ZtF/"
+      },
+      "last_updated": "1616368746"
+    },
+    "02": {
+      "title": "Trahison dans le désert",
+      "volume": "01",
+      "groups": {
+        "Maître Cantique": "/proxy/api/imgur/chapter/aqh2Zxk/"
+      },
+      "last_updated": "1616368746"
+    },
+    "03": {
+      "title": "Le plus fort du monde",
+      "volume": "01",
+      "groups": {
+        "Maître Cantique": "/proxy/api/imgur/chapter/dfr2KN3/"
+      },
+      "last_updated": "1616368746"
+    },
+    "04": {
+      "title": "Trahison dans le désert",
+      "volume": "01",
+      "groups": {
+        "Maître Cantique": "/proxy/api/imgur/chapter/zYTllWx/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
