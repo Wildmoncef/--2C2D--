@@ -1,41 +1,58 @@
 {
-  "title": "2C2D",
-  "description": "Shen, Kame, Fox et Jaguar, quatre jeunes hommes avec des objectifs bien disctincts, vont faire équipe afin de battre le Magicien. C'est le début d'une grande aventure pour ceux qui sont décidment \"trop cools pour mourir\".",
-  "artist": "Benymoh",
-  "author": "Benymoh",
-  "cover": "https://i.imgur.com/j4OZeng.png",
-  "chapters": {
-    "01": {
-      "title": "L'île des reptiles",
-      "volume": "01",
-      "groups": {
-        "Wildmoncef": "/proxy/api/imgur/chapter/M7R0ZtF/"
+    "title": "2C2D",
+    "description": "Shen, Kame, Fox et Jaguar, quatre jeunes hommes avec des objectifs bien disctincts, vont faire équipe afin de battre le Magicien. C'est le début d'une grande aventure pour ceux qui sont décidment \"trop cools pour mourir\".",
+    "artist": "Benymoh",
+    "author": "Benymoh",
+    "cover": "https://i.imgur.com/42jttiO.png",
+    "chapters": {
+        "00": {
+            "title": "Covers",
+            "volume": "01",
+            "groups": {
+              "Wildmoncef": "/proxy/api/imgur/chapter/kv9lSTi/"
+            },
+            "last_updated": "1636050694"
+          },
+      "01": {
+        "title": "L'Île des Reptiles",
+        "volume": "01",
+        "groups": {
+          "Wildmoncef": "/proxy/api/imgur/chapter/nEB5iSN/"
+        },
+        "last_updated": "1636050694"
       },
-      "last_updated": "1636050694"
-    },
-    "02": {
-      "title": "Trahison dans le désert",
-      "volume": "01",
-      "groups": {
-        "Wildmoncef": "/proxy/api/imgur/chapter/aqh2Zxk/"
+      "02": {
+        "title": "Trahison dans le désert",
+        "volume": "01",
+        "groups": {
+          "Wildmoncef": "/proxy/api/imgur/chapter/aqh2Zxk/"
+        },
+        "last_updated": "1636050694"
       },
-      "last_updated": "1636050694"
-    },
-    "03": {
-      "title": "Le plus fort du monde",
-      "volume": "01",
-      "groups": {
-        "Wildmoncef": "/proxy/api/imgur/chapter/dfr2KN3/"
+      "03": {
+        "title": "Le plus fort du monde",
+        "volume": "01",
+        "groups": {
+          "Wildmoncef": "/proxy/api/imgur/chapter/dfr2KN3/"
+        },
+        "last_updated": "1636050694"
       },
-      "last_updated": "1636050694"
-    },
-    "04": {
-      "title": "Trahison dans le désert",
-      "volume": "01",
-      "groups": {
-        "Wildmoncef": "/proxy/api/imgur/chapter/zYTllWx/"
+      "04": {
+        "title": "Rencontre à Flower Town",
+        "volume": "01",
+        "groups": {
+          "Wildmoncef": "/proxy/api/imgur/chapter/zYTllWx/"
+        },
+        "last_updated": "1636050694"
       },
-      "last_updated": "1636050694"
+          "05": {
+        "title": "Le Tournoi",
+        "volume": "01",
+        "groups": {
+          "Wildmoncef": "/proxy/api/imgur/chapter/EZqQIdw/"
+        },
+        "last_updated": "1636051053"
+      }
     }
   }
-}
+  
