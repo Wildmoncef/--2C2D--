@@ -5,133 +5,133 @@
   "author": "Benymoh",
   "cover": "https://i.imgur.com/42jttiO.png",
   "chapters": {
-    "10": {
-      "title": "Black Bart",
-      "volume": "1",
-      "last_updated": "1636056835",
-      "groups": {
-        "Wildmoncef": "/proxy/api/imgur/chapter/4gVufTY/"
-      }
-    },
-    "11": {
-      "title": "Le Sentier de La Mort",
-      "volume": "01 - La Quête du Magicien",
-      "last_updated": "1636058075",
-      "groups": {
-        "Wildmoncef": "/proxy/api/imgur/chapter/0ecv13B/"
-      }
-    },
-    "12": {
-      "title": "Assaut Final",
-      "volume": "01 - La Quête du Magicien",
-      "last_updated": "1636058393",
-      "groups": {
-        "Wildmoncef": "/proxy/api/imgur/chapter/v7LYjiR/"
-      }
-    },
-    "13": {
-      "title": "Jour de Pluie",
-      "volume": "01 - La Quête du Magicien",
-      "last_updated": "1636058393",
-      "groups": {
-        "Wildmoncef": "/proxy/api/imgur/chapter/5cNPvIJ/"
-      }
-    },
-    "14": {
-      "title": "Le Tyran",
-      "volume": "01 - La Quête du Magicien",
-      "last_updated": "1636058393",
-      "groups": {
-        "Wildmoncef": "/proxy/api/imgur/chapter/zD3tXVM/"
-      }
-    },
-    "15": {
-      "title": "Châtiment [Ongoing]",
-      "volume": "01 - La Quête du Magicien",
-      "last_updated": "1636058393",
-      "groups": {
-        "Wildmoncef": "/proxy/api/imgur/chapter/8hel0Ia/"
-      }
-    },
     "00": {
       "title": "Covers",
       "volume": "00 - Covers",
-      "last_updated": "1636050694",
       "groups": {
         "Wildmoncef": "/proxy/api/imgur/chapter/kv9lSTi/"
-      }
+      },
+      "last_updated": "1636050694"
     },
     "01": {
       "title": "L'Île des Reptiles",
       "volume": "01 - La Quête du Magicien",
-      "last_updated": "1636050694",
       "groups": {
         "Wildmoncef": "/proxy/api/imgur/chapter/nEB5iSN/"
-      }
+      },
+      "last_updated": "1636050694"
     },
     "02": {
       "title": "Trahison dans le Désert",
       "volume": "01 - La Quête du Magicien",
-      "last_updated": "1636050694",
       "groups": {
         "Wildmoncef": "/proxy/api/imgur/chapter/aqh2Zxk/"
-      }
+      },
+      "last_updated": "1636050694"
     },
     "03": {
       "title": "Le Plus Fort du Monde",
       "volume": "01 - La Quête du Magicien",
-      "last_updated": "1636050694",
       "groups": {
         "Wildmoncef": "/proxy/api/imgur/chapter/dfr2KN3/"
-      }
+      },
+      "last_updated": "1636050694"
     },
     "04": {
       "title": "Rencontre à Flower Town",
       "volume": "01 - La Quête du Magicien",
-      "last_updated": "1636050694",
       "groups": {
         "Wildmoncef": "/proxy/api/imgur/chapter/zYTllWx/"
-      }
+      },
+      "last_updated": "1636050694"
     },
     "05": {
       "title": "Le Tournoi",
       "volume": "01 - La Quête du Magicien",
-      "last_updated": "1636051053",
       "groups": {
         "Wildmoncef": "/proxy/api/imgur/chapter/EZqQIdw/"
-      }
+      },
+      "last_updated": "1636051053"
     },
     "06": {
       "title": "Phase Finale",
       "volume": "01 - La Quête du Magicien",
-      "last_updated": "1636052034",
       "groups": {
         "Wildmoncef": "/proxy/api/imgur/chapter/iNsXlPi/"
-      }
+      },
+      "last_updated": "1636052034"
     },
     "07": {
       "title": "Les Pouvoirs",
       "volume": "01 - La Quête du Magicien",
-      "last_updated": "1636052383",
       "groups": {
         "Wildmoncef": "/proxy/api/imgur/chapter/Y7idSEG/"
-      }
+      },
+      "last_updated": "1636052383"
     },
     "08": {
       "title": "Entraînement",
       "volume": "01 - La Quête du Magicien",
-      "last_updated": "1636056495",
       "groups": {
         "Wildmoncef": "/proxy/api/imgur/chapter/pbTO0Bj/"
-      }
+      },
+      "last_updated": "1636056495"
     },
     "09": {
       "title": "Le Retour du Jaguar",
       "volume": "01 - La Quête du Magicien",
-      "last_updated": "1636056495",
       "groups": {
         "Wildmoncef": "/proxy/api/imgur/chapter/cH7FOEB/"
-      }
+      },
+      "last_updated": "1636056495"
+    },
+    "10": {
+      "title": "Black Bart",
+      "volume": "01 - La Quête du Magicien",
+      "groups": {
+        "Wildmoncef": "/proxy/api/imgur/chapter/4gVufTY/"
+      },
+      "last_updated": "1636056835"
+    },
+    "11": {
+      "title": "Le Sentier de La Mort",
+      "volume": "01 - La Quête du Magicien",
+      "groups": {
+        "Wildmoncef": "/proxy/api/imgur/chapter/0ecv13B/"
+      },
+      "last_updated": "1636058075"
+    },
+    "12": {
+      "title": "Assaut Final",
+      "volume": "01 - La Quête du Magicien",
+      "groups": {
+        "Wildmoncef": "/proxy/api/imgur/chapter/v7LYjiR/"
+      },
+      "last_updated": "1636058393"
+    },
+    "13": {
+      "title": "Jour de Pluie",
+      "volume": "01 - La Quête du Magicien",
+      "groups": {
+        "Wildmoncef": "/proxy/api/imgur/chapter/5cNPvIJ/"
+      },
+      "last_updated": "1636058393"
+    },
+    "14": {
+      "title": "Le Tyran",
+      "volume": "01 - La Quête du Magicien",
+      "groups": {
+        "Wildmoncef": "/proxy/api/imgur/chapter/zD3tXVM/"
+      },
+      "last_updated": "1636058393"
+    },
+    "15": {
+      "title": "Châtiment [Ongoing]",
+      "volume": "01 - La Quête du Magicien",
+      "groups": {
+        "Wildmoncef": "/proxy/api/imgur/chapter/8hel0Ia/"
+      },
+      "last_updated": "1636058393"
     }
   }
 }
