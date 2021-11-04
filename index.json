@@ -1,58 +1,73 @@
 {
-    "title": "2C2D",
-    "description": "Shen, Kame, Fox et Jaguar, quatre jeunes hommes avec des objectifs bien disctincts, vont faire équipe afin de battre le Magicien. C'est le début d'une grande aventure pour ceux qui sont décidment \"trop cools pour mourir\".",
-    "artist": "Benymoh",
-    "author": "Benymoh",
-    "cover": "https://i.imgur.com/42jttiO.png",
-    "chapters": {
-        "00": {
-            "title": "Covers",
-            "volume": "01",
-            "groups": {
-              "Wildmoncef": "/proxy/api/imgur/chapter/kv9lSTi/"
-            },
-            "last_updated": "1636050694"
-          },
-      "01": {
-        "title": "L'Île des Reptiles",
-        "volume": "01",
-        "groups": {
-          "Wildmoncef": "/proxy/api/imgur/chapter/nEB5iSN/"
-        },
-        "last_updated": "1636050694"
+  "title": "2 Cool 2 Die",
+  "description": "Shen, Kame, Fox et Jaguar, quatre jeunes hommes avec des objectifs bien disctincts, vont faire équipe afin de battre le Magicien. C'est le début d'une grande aventure pour ceux qui sont décidment \"trop cools pour mourir\".",
+  "artist": "Benymoh",
+  "author": "Benymoh",
+  "cover": "https://i.imgur.com/42jttiO.png",
+  "chapters": {
+    "00": {
+      "title": "Covers",
+      "volume": "00 - Covers",
+      "groups": {
+        "Wildmoncef": "/proxy/api/imgur/chapter/kv9lSTi/"
       },
-      "02": {
-        "title": "Trahison dans le désert",
-        "volume": "01",
-        "groups": {
-          "Wildmoncef": "/proxy/api/imgur/chapter/aqh2Zxk/"
-        },
-        "last_updated": "1636050694"
+      "last_updated": "1636050694"
+    },
+    "01": {
+      "title": "L'Île des Reptiles",
+      "volume": "01 - La Quête du Magicien",
+      "groups": {
+        "Wildmoncef": "/proxy/api/imgur/chapter/nEB5iSN/"
       },
-      "03": {
-        "title": "Le plus fort du monde",
-        "volume": "01",
-        "groups": {
-          "Wildmoncef": "/proxy/api/imgur/chapter/dfr2KN3/"
-        },
-        "last_updated": "1636050694"
+      "last_updated": "1636050694"
+    },
+    "02": {
+      "title": "Trahison dans le désert",
+      "volume": "01 - La Quête du Magicien",
+      "groups": {
+        "Wildmoncef": "/proxy/api/imgur/chapter/aqh2Zxk/"
       },
-      "04": {
-        "title": "Rencontre à Flower Town",
-        "volume": "01",
-        "groups": {
-          "Wildmoncef": "/proxy/api/imgur/chapter/zYTllWx/"
-        },
-        "last_updated": "1636050694"
+      "last_updated": "1636050694"
+    },
+    "03": {
+      "title": "Le plus fort du monde",
+      "volume": "01 - La Quête du Magicien",
+      "groups": {
+        "Wildmoncef": "/proxy/api/imgur/chapter/dfr2KN3/"
       },
-          "05": {
-        "title": "Le Tournoi",
-        "volume": "01",
-        "groups": {
-          "Wildmoncef": "/proxy/api/imgur/chapter/EZqQIdw/"
-        },
-        "last_updated": "1636051053"
-      }
+      "last_updated": "1636050694"
+    },
+    "04": {
+      "title": "Rencontre à Flower Town",
+      "volume": "01 - La Quête du Magicien",
+      "groups": {
+        "Wildmoncef": "/proxy/api/imgur/chapter/zYTllWx/"
+      },
+      "last_updated": "1636050694"
+    },
+    "05": {
+      "title": "Le Tournoi",
+      "volume": "01 - La Quête du Magicien",
+      "groups": {
+        "Wildmoncef": "/proxy/api/imgur/chapter/EZqQIdw/"
+      },
+      "last_updated": "1636051053"
+    },
+    "06": {
+      "title": "Phase Finale",
+      "volume": "01 - La Quête du Magicien",
+      "groups": {
+        "Wildmoncef": "/proxy/api/imgur/chapter/iNsXlPi/"
+      },
+      "last_updated": "1636052034"
+    },
+    "07": {
+      "title": "Les Pouvoirs",
+      "volume": "01 - La Quête du Magicien",
+      "groups": {
+        "Wildmoncef": "/proxy/api/imgur/chapter/Y7idSEG/"
+      },
+      "last_updated": "1636052383"
     }
   }
-  
+}
