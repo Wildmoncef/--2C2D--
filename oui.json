@@ -8,9 +8,11 @@
     "01": {
       "title": "test",
       "volume": "00 - test",
-      "groups": {
-        "oim": "https://drive.google.com/uc?id=16ROV1ee8cKaNBMWnxx6fN22iaFGJiWeL"
-      },
+      "groups": [
+        "https://drive.google.com/uc?id=16ROV1ee8cKaNBMWnxx6fN22iaFGJiWeL",
+        "https://drive.google.com/uc?id=1zJiLJ_vOomcKdZr-yX8wLdHATMuIAVKs",
+        "https://drive.google.com/uc?id=1DI3l-eUf6CIvQ826EfPQpbbwdKgJQdQ0"
+      ],
       "last_updated": "1636050694"
     }
   }
